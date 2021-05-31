@@ -1,8 +1,8 @@
 # carseat-sales-linear-reg
 - predicting used carseats sales using linear regression
 - Following data science pipeline  
- - EDA
- - Data Preprocessing
+  - EDA
+  - Data Preprocessing
    - Feature Engineering (Ordinal Encoding)
    - Feature Selection
    - Model Building
