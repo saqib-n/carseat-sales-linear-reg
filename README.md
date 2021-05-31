@@ -6,7 +6,7 @@
     - Feature Engineering (Ordinal Encoding)
     - Feature Selection
     - Model Building
-    - model reach the best accuracy
+  - model reach the best accuracy
   
  # Model Performance
  - Linear Regression : R-square = 0.865
